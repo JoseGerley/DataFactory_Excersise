@@ -1,0 +1,11 @@
+{
+	"name": "LinkedService_AKey_JGMV",
+	"properties": {
+		"description": "No quiero poner una descripción",
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://keydatalabStudent.vault.azure.net/"
+		}
+	}
+}
